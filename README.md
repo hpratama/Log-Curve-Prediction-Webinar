@@ -1,6 +1,7 @@
 # Predict Missing Log Curve with Machine Learning
 ## A mini free webinar by [Hadyan Pratama](hpratama.github.io)
 
+![Poster](https://github.com/hpratama/Log-Curve-Prediction-Webinar/blob/main/AI_Free_Workshop.png)
 
 The data used for this repository is from GEOLINK_Lithology and wells NORTH SEA public dataset, under [Creative Common Attribution](http://opendefinition.org/licenses/cc-by/) License.
 
