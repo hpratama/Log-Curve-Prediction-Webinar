@@ -27,7 +27,7 @@ Full dataset is [here](https://drive.google.com/file/d/1ZvLG1SRBQB4mDUmPHSc_6kP-
 ✅ Missing log estimation on real data
 
 ---
-### 🛠 prerequisite
+### 🛠 Prerequisite
 ✅ Python 3.xx
 
 ✅ Jupyter Notebook
